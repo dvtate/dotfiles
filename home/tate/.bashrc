@@ -11,5 +11,4 @@ PS1='[\u@\h \W]\$ '
 
 BROWSER=/usr/bin/chromium
 
-# fite me
-EDITOR=/usr/bin/nano
+EDITOR=/usr/bin/vim
