@@ -7,16 +7,19 @@
 
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
-
-PS1='[\u@\h \W]\$ '
+alias dd='dd status=progress'
 
 function ipi () {
 	curl ipinfo.io/$1
 	echo
 }
 
+alias gdl='git diff | wc -l'
+
 BROWSER=/usr/bin/firefox
 EDITOR=/usr/bin/vim
+
+PS1='[\u@\h \W]\$ '
 
 HISTTIMEFORMAT="%F %T "
 HISTCONTROL=ignoredups
