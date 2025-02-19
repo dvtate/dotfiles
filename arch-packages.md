@@ -12,7 +12,7 @@ The following packages can be installed via pacman. They might not all be needed
 ### Sysadmin tools
 `openssh rsync byobu htop vim fail2ban nano wget tmux screen pm2 certbot openssl git man-db tldr zip parallel dig nmap`
 ### System tools
-`exfat-utils lm_sensors`
+`exfat-utils lm_sensors hdparm`
 ### Infra
 `nginx-mainline mariadb memcached nextcloud php-legacy-fpm`
 ### Misc Utils & Dependencies
