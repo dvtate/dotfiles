@@ -10,7 +10,7 @@ The following packages can be installed via pacman. They might not all be needed
 ### Dev tools
 `gcc gdb cmake nodejs npm python python-pip cython go rust sagemath`
 ### Sysadmin tools
-`openssh rsync byobu htop vim fail2ban nano wget tmux screen pm2 certbot openssl git man-db tldr zip parallel dig nmap`
+`openssh rsync byobu htop vim fail2ban nano wget tmux screen pm2 certbot openssl git man-db tldr zip parallel dig nmap clamav`
 ### System tools
 `exfat-utils lm_sensors hdparm`
 ### Infra
